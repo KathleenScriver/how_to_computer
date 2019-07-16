@@ -12,6 +12,11 @@ you put your mouse in a corner, you can view your desktop, all applications, all
 Tools:
 - [Spectacle](https://www.spectacleapp.com) | Allows you to easily move and align your windows.
 
+    * `cmd + option + f`: makes current window full-screen
+    * Swapping out the above `f` with an arrow key will move your window to that side of your screen.
+    * `cmd + option + up + up + up`: experiment with all the arrow keys to change the size of the window
+
+
 
 ### How to Terminal
 
