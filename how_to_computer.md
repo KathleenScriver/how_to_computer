@@ -40,6 +40,7 @@ Text Editors ship with tons of keyboard shortcuts making it very easy to
 - copy lines of code
 - multiple cursors to select all words that match selected word
 - fuzzy find (finding a file or a specific word in project)
+- move to beginning/end of line
 
 #### You do
 - Google a cheatsheet of keyboard shortcuts for your text editor of choice.
