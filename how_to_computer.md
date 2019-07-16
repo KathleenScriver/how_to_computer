@@ -5,7 +5,7 @@
 Shortcuts:
 - `cmd + spacebar`:
   Opens spotlight so you can easily open apps by typing their names
--`cmd + tab`: Allows you to tab or arrow through open applications
+- `cmd + tab`: Allows you to tab or arrow through open applications
 - `system preferences -> desktop and screensaver -> hot corners`: Can set up so when
 you put your mouse in a corner, you can view your desktop, all applications, all open windows, start your screensaver, etc.
 
@@ -23,6 +23,7 @@ Tools:
 Shortcuts:
 - Pressing the up arrow in terminal will scroll through your last commands
 - `ctrl + a`: moves cursor to beginning of line
+- `ctrl + e`: moves cursor to end of line
 - `ctrl + u`: clears current line from where cursor is to beginning of line
 - `ctrl + k`: clears current line from where cursor is to end of line
 - `clear` or `cmd + k`: cleans up terminal screen to top
