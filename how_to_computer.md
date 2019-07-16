@@ -38,3 +38,8 @@ Text Editors ship with tons of keyboard shortcuts making it very easy to
 #### You do
 - Google a cheatsheet of keyboard shortcuts for your text editor of choice.
 - What are the commands for all the above actions?
+
+
+Need help?
+   - [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+   - [Atom](https://www.bugsnag.com/blog/atom-editor-cheat-sheet)
