@@ -31,9 +31,9 @@ Shortcuts:
 ### How to *Text Editor*
 
 Text Editors ship with tons of keyboard shortcuts making it very easy to
-- open a file from your terminal
-- create new directories and files
-- move a line/block of code up and down
+- open a project from your terminal
+- create new directories and files (not from command line)
+- move a line/block of code up and down in file
 - select a whole line of code
 - delete a whole line of code
 - copy lines of code
