@@ -23,6 +23,7 @@ Tools:
 Shortcuts:
 - Pressing the up arrow in terminal will scroll through your last commands
 - `ctrl + a`: moves cursor to beginning of line
+- `ctrl + e`: moves cursor to end of line
 - `ctrl + u`: clears current line from where cursor is to beginning of line
 - `ctrl + k`: clears current line from where cursor is to end of line
 - `clear` or `cmd + k`: cleans up terminal screen to top
