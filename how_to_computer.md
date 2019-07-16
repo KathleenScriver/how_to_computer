@@ -5,7 +5,7 @@
 Shortcuts:
 - `cmd + spacebar`:
   Opens spotlight so you can easily open apps by typing their names
--`cmd + tab`: Allows you to tab or arrow through open applications
+- `cmd + tab`: Allows you to tab or arrow through open applications
 - `system preferences -> desktop and screensaver -> hot corners`: Can set up so when
 you put your mouse in a corner, you can view your desktop, all applications, all open windows, start your screensaver, etc.
 
@@ -38,7 +38,7 @@ Text Editors ship with tons of keyboard shortcuts making it very easy to
 - delete a whole line of code
 - copy lines of code
 - multiple cursors to select all words that match selected word
-- fuzzy find
+- fuzzy find (finding a file or a specific word in project)
 
 #### You do
 - Google a cheatsheet of keyboard shortcuts for your text editor of choice.
