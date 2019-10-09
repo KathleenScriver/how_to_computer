@@ -28,6 +28,12 @@ Shortcuts:
 - `ctrl + k`: clears current line from where cursor is to end of line
 - `clear` or `cmd + k`: cleans up terminal screen to top
 
+Practice moving around in terminal:
+Work with your partner to create a project with the following file structure *only using the terminal*
+```
+  computer_party
+    |
+
 
 ### How to *Text Editor*
 
@@ -39,8 +45,8 @@ Text Editors ship with tons of keyboard shortcuts making it very easy to
 - delete a whole line of code
 - copy lines of code
 - multiple cursors to select all words that match selected word
-- fuzzy find (finding a file or a specific word in project)
-- move to beginning/end of line/
+- fuzzy find (finding a file in project by name)
+- move to beginning/end of line
 
 #### You do
 - Google a cheatsheet of keyboard shortcuts for your text editor of choice.
